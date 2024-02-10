@@ -14,3 +14,5 @@ SQL
 Bibliotecas 
 Machine Learning
 
+Desenvolvido durante a imersão de dados Comunidade DS.
+
